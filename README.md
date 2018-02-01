@@ -9,8 +9,8 @@ Integrate Paypal Service with Spring Boot
 
 ### Add necessary information to application.properties file
 
-	spring.paypal.client-id=ARDE-_CQ9EOws0_72NG3B5qiO6xWGTPKPUj2LojU0XnrJdahfaJsJEIGX89nzLOTojFrkL0Clp70uTjb
-	spring.paypal.client-secret=EJogeWqcaaT4Ye2cAALhaNWN_FZ1X8l4hlMsSp49ARIXlbg_hHU9qOtSYpMJ5KsnMnRqlArAgfccp0YG
+	spring.paypal.client-id=YOUR_CLIENT_ID
+	spring.paypal.client-secret=YOUR_CLIENT_SECRET
 	spring.paypal.mode=sandbox
 
 #### Add dependency to your Spring Boot project
